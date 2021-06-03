@@ -6,3 +6,6 @@
 ### Vim
 * [Spellcheck](vim/spellcheck.md)
 * [Move windows](vim/move_windows.md)
+
+### Postgres
+* [Partial Indexes](postgres/partial_indexes.md)
