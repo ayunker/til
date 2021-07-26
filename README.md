@@ -9,3 +9,6 @@
 
 ### Postgres
 * [Partial Indexes](postgres/partial_indexes.md)
+
+### Git
+* [Partial Indexes](git/checkout_from_branch.md)
