@@ -11,4 +11,7 @@
 * [Partial Indexes](postgres/partial_indexes.md)
 
 ### Git
-* [Partial Indexes](git/checkout_from_branch.md)
+* [Checkout from Branch](git/checkout_from_branch.md)
+
+### HAML
+* [Succeed](haml/succeed.md)
