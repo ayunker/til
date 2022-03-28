@@ -5,6 +5,7 @@
 
 ## Rails
 * [Existence Checks](rails/existence_check.md)
+* [Silence Logging in Console](rails/silence_console_logging.md)
 
 ### Vim
 * [Spellcheck](vim/spellcheck.md)
