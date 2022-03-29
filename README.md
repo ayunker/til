@@ -19,3 +19,6 @@
 
 ### HAML
 * [Succeed](haml/succeed.md)
+
+### Elasticsearch
+* [Count Documents](elasticsearch/count_documents.md)
