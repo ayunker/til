@@ -14,6 +14,7 @@
 ### Vim
 * [Spellcheck](vim/spellcheck.md)
 * [Move windows](vim/move_windows.md)
+* [Format XML Document](vim/format_xml.md)
 
 ### Postgres
 * [Partial Indexes](postgres/partial_indexes.md)
