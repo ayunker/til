@@ -27,3 +27,6 @@
 
 ### Elasticsearch
 * [Count Documents](elasticsearch/count_documents.md)
+
+### Mac
+* [Install Postgres Ruby Gem on M1](mac/postgres_with_m1.md)
