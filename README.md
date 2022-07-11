@@ -5,6 +5,7 @@
 
 ### Ruby
 * [Get Timezone's UTC Offset](ruby/get_timezone_offset.md)
+* [Tally an Array](ruby/tally_array.md)
 
 ## Rails
 * [Existence Checks](rails/existence_check.md)
