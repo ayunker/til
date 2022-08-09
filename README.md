@@ -28,6 +28,7 @@
 
 ### Elasticsearch
 * [Count Documents](elasticsearch/count_documents.md)
+* [Limit ES Memory Consumption](elasticsearch/limit_memory.md)
 
 ### Mac
 * [Install Postgres Ruby Gem on M1](mac/postgres_with_m1.md)
