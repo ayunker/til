@@ -3,6 +3,9 @@
 ### Curl
 * [Download File From Url](curl/download_file_from_url.md)
 
+### Deno
+* [Read in Contents of a File](deno/read_in_contents_of_a_file.md)
+
 ### Ruby
 * [Get Timezone's UTC Offset](ruby/get_timezone_offset.md)
 * [Tally an Array](ruby/tally_array.md)
