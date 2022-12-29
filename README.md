@@ -6,6 +6,10 @@
 ### Deno
 * [Read in Contents of a File](deno/read_in_contents_of_a_file.md)
 
+### Javascript
+* [Limit Jest Test Coverage to Specific
+  Files](javascript/limit_jest_test_coverage.md)
+
 ### Ruby
 * [Get Timezone's UTC Offset](ruby/get_timezone_offset.md)
 * [Tally an Array](ruby/tally_array.md)
