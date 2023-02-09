@@ -43,4 +43,4 @@
 
 ### tmux
 * [Select Layouts](tmux/select_layouts.md)
-
+* [Move Windows](tmux/move_windows.md)
