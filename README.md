@@ -30,6 +30,7 @@
 
 ### Git
 * [Checkout from Branch](git/checkout_from_branch.md)
+* [Search Through Git Log](git/search_through_git_log.md)
 
 ### HAML
 * [Succeed](haml/succeed.md)
