@@ -15,7 +15,7 @@
 * [Tally an Array](ruby/tally_array.md)
 * [bear loves his kat](ruby/bear_loves_his_kat.md)
 
-## Rails
+### Rails
 * [Existence Checks](rails/existence_check.md)
 * [Silence Logging in Console](rails/silence_console_logging.md)
 * [Multiple Recaptchas](rails/multiple_recaptchas.md)
@@ -24,6 +24,7 @@
 * [Spellcheck](vim/spellcheck.md)
 * [Move windows](vim/move_windows.md)
 * [Format XML Document](vim/format_xml.md)
+* [Save without Formatting in Vim](vim/save_without_formatting_in_vim.md)
 
 ### Postgres
 * [Partial Indexes](postgres/partial_indexes.md)
