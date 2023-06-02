@@ -15,6 +15,7 @@
 * [Tally an Array](ruby/tally_array.md)
 * [RSpec Spies](ruby/rspec_spies.md)
 * [FactoryBot skip_create](ruby/factorybot_skip_create.md)
+* [Bundle Pristine](ruby/bundle_pristine.md)
 * [bear loves his kat](ruby/bear_loves_his_kat.md)
 
 ### Rails
