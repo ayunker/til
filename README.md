@@ -50,3 +50,6 @@
 ### tmux
 * [Select Layouts](tmux/select_layouts.md)
 * [Move Windows](tmux/move_windows.md)
+
+### Linux
+* [Delete A Rule In UFW](linux/delete_a_rule_in_ufw.md)
