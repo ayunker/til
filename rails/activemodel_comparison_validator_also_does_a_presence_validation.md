@@ -33,3 +33,5 @@ pry(main)> bar.valid?; bar.errors.full_messages
 ```
 
 [Source](https://github.com/rails/rails/blob/main/activemodel/lib/active_model/validations/comparison.rb#L24)
+
+via https://til.hashrocket.com/posts/eovmkimoxl-comparison-validator-also-validates-presence
