@@ -23,6 +23,7 @@
 * [Silence Logging in Console](rails/silence_console_logging.md)
 * [Multiple Recaptchas](rails/multiple_recaptchas.md)
 * [ActiveModel Comparison Validator Also Does A Presence Validation](rails/activemodel_comparison_validator_also_does_a_presence_validation.md)
+* [Partial Match on Mutliple Columns](rails/partial_match_on_mutliple_columns.md)
 
 ### Vim
 * [Spellcheck](vim/spellcheck.md)
