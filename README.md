@@ -32,6 +32,7 @@
 * [Move windows](vim/move_windows.md)
 * [Format XML Document](vim/format_xml.md)
 * [Save without Formatting in Vim](vim/save_without_formatting_in_vim.md)
+* [Execute (n)vim Commands on Startup](vim/execute_nvim_commands_on_startup.md)
 
 ### Postgres
 * [Partial Indexes](postgres/partial_indexes.md)
