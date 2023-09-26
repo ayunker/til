@@ -18,6 +18,7 @@
 * [Bundle Pristine](ruby/bundle_pristine.md)
 * [bear loves his kat](ruby/bear_loves_his_kat.md)
 * [Ruby Rightward Assignment for Javascript-like Destructuring](ruby/ruby_rightward_assignment_for_javascript-like_destructuring.md)
+* [Yield a double to a Block in RSpec](ruby/yield_a_double_to_a_block_in_rspec.md)
 
 ### Rails
 * [Existence Checks](rails/existence_check.md)
