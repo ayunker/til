@@ -27,6 +27,7 @@
 * [ActiveModel Comparison Validator Also Does A Presence Validation](rails/activemodel_comparison_validator_also_does_a_presence_validation.md)
 * [Partial Match on Mutliple Columns](rails/partial_match_on_mutliple_columns.md)
 * [Active Record Querying with and](rails/active_record_querying_with_and.md)
+* [Dealing with Multiline Strings in Rails Config](rails/dealing_with_multiline_strings_in_rails_config.md)
 
 ### Vim
 * [Spellcheck](vim/spellcheck.md)
