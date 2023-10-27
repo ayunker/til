@@ -43,6 +43,7 @@
 ### Git
 * [Checkout from Branch](git/checkout_from_branch.md)
 * [Search Through Git Log](git/search_through_git_log.md)
+* [See Which Files Changed in git](git/see_which_files_changed_in_git.md)
 
 ### HAML
 * [Succeed](haml/succeed.md)

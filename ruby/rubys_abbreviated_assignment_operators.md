@@ -28,3 +28,5 @@ x = [1, 2, 3]
 x |= [2, 3, 4, 4]
 x #=> [1, 2, 3, 4]
 ```
+
+via https://til.hashrocket.com/posts/9g01r8s7zr-rubys-abbreviated-assignment-operators
