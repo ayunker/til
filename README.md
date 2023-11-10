@@ -75,3 +75,7 @@
 ### Linux
 
 - [Delete A Rule In UFW](linux/delete_a_rule_in_ufw.md)
+
+### Web
+
+- [414 URI Too Long](web/414_uri_too_long.md)
