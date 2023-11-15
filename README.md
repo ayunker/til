@@ -10,8 +10,8 @@
 
 ### Javascript
 
-- [Limit Jest Test Coverage to Specific
-  Files](javascript/limit_jest_test_coverage.md)
+- [Limit Jest Test Coverage to Specific Files](javascript/limit_jest_test_coverage.md)
+- [Running a Single Jest Test](javascript/running_a_single_jest_test.md)
 
 ### Ruby
 
