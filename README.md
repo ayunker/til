@@ -25,6 +25,7 @@
 - [Ruby Rightward Assignment for Javascript-like Destructuring](ruby/ruby_rightward_assignment_for_javascript-like_destructuring.md)
 - [Yield a double to a Block in RSpec](ruby/yield_a_double_to_a_block_in_rspec.md)
 - [Ruby's Abbreviated Assignment Operators](ruby/rubys_abbreviated_assignment_operators.md)
+- [Scan with Index](ruby/scan_with_index.md)
 
 ### Rails
 
