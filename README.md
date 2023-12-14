@@ -45,6 +45,7 @@
 - [Format XML Document](vim/format_xml.md)
 - [Save without Formatting in Vim](vim/save_without_formatting_in_vim.md)
 - [Execute (n)vim Commands on Startup](vim/execute_nvim_commands_on_startup.md)
+- [End of Line Substitutions](vim/end_of_line_substitutions.md)
 
 ### Postgres
 
