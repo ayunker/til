@@ -13,6 +13,7 @@
 - [Limit Jest Test Coverage to Specific Files](javascript/limit_jest_test_coverage.md)
 - [Running a Single Jest Test](javascript/running_a_single_jest_test.md)
 - [Mock External Library Functions in Jest](javascript/mock_external_library_functions_in_jest.md)
+- [Parseable npm audit output](javascript/npm_audit_parseable.md)
 
 ### Ruby
 
