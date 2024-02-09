@@ -39,6 +39,7 @@
 - [Active Record Querying with and](rails/active_record_querying_with_and.md)
 - [Dealing with Multiline Strings in Rails Config](rails/dealing_with_multiline_strings_in_rails_config.md)
 - [Tell Rails Your Foreign Key is a UUID](rails/tell_rails_your_foreign_key_is_a_uuid.md)
+- [Scope Uniqueness Validation](rails/scope_uniqueness_validation.md)
 
 ### Vim
 
