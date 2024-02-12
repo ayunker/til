@@ -28,6 +28,7 @@
 - [Ruby's Abbreviated Assignment Operators](ruby/rubys_abbreviated_assignment_operators.md)
 - [Scan with Index](ruby/scan_with_index.md)
 - [Map with Index](ruby/map_with_index.md)
+- [RSpec's be_within Matcher](ruby/rspecs_be_within_matcher.md)
 
 ### Rails
 
