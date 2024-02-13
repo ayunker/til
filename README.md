@@ -75,6 +75,7 @@
 ### Mac
 
 - [Install Postgres Ruby Gem on M1](mac/postgres_with_m1.md)
+- [List Installed Fonts](mac/list_installed_fonts.md)
 
 ### tmux
 
