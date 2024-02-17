@@ -62,6 +62,7 @@
 - [See Which Files Changed in git](git/see_which_files_changed_in_git.md)
 - [Git Log an Individual Function](git/git_log_an_individual_function.md)
 - [New Ways to Walk Through Past Commits in git](git/new_ways_to_walk_through_past_commits_in_git.md)
+- [Git all Commits By Author](git/git_all_commits_by_author.md)
 
 ### HAML
 
