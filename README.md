@@ -1,5 +1,9 @@
 # til
 
+### Command Line
+
+- [Use Comm to Compare Files](command-line/use_comm_to_compare_files.md)
+
 ### Curl
 
 - [Download File From Url](curl/download_file_from_url.md)
