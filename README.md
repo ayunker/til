@@ -61,6 +61,7 @@
 - [Dealing with Multiline Strings in Rails Config](rails/dealing_with_multiline_strings_in_rails_config.md)
 - [Tell Rails Your Foreign Key is a UUID](rails/tell_rails_your_foreign_key_is_a_uuid.md)
 - [Scope Uniqueness Validation](rails/scope_uniqueness_validation.md)
+- [Set Attributes when Creating with .create_with](rails/set_attributes_when_creating_with_create_with.md)
 
 ### Ruby
 
