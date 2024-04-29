@@ -63,6 +63,7 @@
 - [Scope Uniqueness Validation](rails/scope_uniqueness_validation.md)
 - [Set Attributes when Creating with .create_with](rails/set_attributes_when_creating_with_create_with.md)
 - [ActiveRecord .missing Makes Finding Missing Relations Easy](rails/activerecord_missing_makes_finding_missing_relations_easy.md)
+- [ActiveRecord Reload only Associated Record](rails/activerecord_reload_only_associated_record.md)
 
 ### Ruby
 
