@@ -81,6 +81,7 @@
 - [RSpec's be_within Matcher](ruby/rspecs_be_within_matcher.md)
 - [Regex in RSpec Argument Matchers](ruby/regex_in_rspec_argument_matchers.md)
 - [Two Types of Ranges](ruby/two_types_of_ranges.md)
+- [Rerun Only Failed Tests in RSpec](ruby/rerun_only_failed_tests_in_rspec.md)
 
 ### tmux
 
