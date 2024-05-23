@@ -80,6 +80,7 @@
 - [Map with Index](ruby/map_with_index.md)
 - [RSpec's be_within Matcher](ruby/rspecs_be_within_matcher.md)
 - [Regex in RSpec Argument Matchers](ruby/regex_in_rspec_argument_matchers.md)
+- [Two Types of Ranges](ruby/two_types_of_ranges.md)
 
 ### tmux
 
