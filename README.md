@@ -69,6 +69,7 @@
 - [ActiveRecord .missing Makes Finding Missing Relations Easy](rails/activerecord_missing_makes_finding_missing_relations_easy.md)
 - [ActiveRecord Reload only Associated Record](rails/activerecord_reload_only_associated_record.md)
 - [Easily Update ActiveRecord Enum Values](rails/easily_update_activerecord_enum_values.md)
+- [Ruby GraphQL Generators](rails/ruby_graphql_generators.md)
 
 ### Ruby
 
