@@ -105,6 +105,7 @@
 - [End of Line Substitutions](vim/end_of_line_substitutions.md)
 - [View Git Commits from Blame with Fugitive](vim/view_git_commits_from_blame_with_fugitive.md)
 - [Turn Off Spell Check in Vim](vim/turn_off_spell_check_in_vim.md)
+- [View Highlight Groups in vim](vim/view_highlight_groups_in_vim.md)
 
 ### Vite
 - [Stub Environment Variables in Vitest](vite/stub_environment_variables_in_vitest.md)
