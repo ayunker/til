@@ -89,6 +89,7 @@
 - [Two Types of Ranges](ruby/two_types_of_ranges.md)
 - [Rerun Only Failed Tests in RSpec](ruby/rerun_only_failed_tests_in_rspec.md)
 - [Use ri to Lookup Ruby Docs from the Command Line](ruby/use_ri_to_lookup_ruby_docs_from_the_command_line.md)
+- [casecmp to Compare Strings](ruby/casecmp_to_compare_strings.md)
 
 ### tmux
 
