@@ -41,6 +41,10 @@
 - [Mock External Library Functions in Jest](javascript/mock_external_library_functions_in_jest.md)
 - [Parseable npm audit output](javascript/npm_audit_parseable.md)
 
+###
+
+- [Refetch Query with Apollo GraphQL Client](react/refetch_query_with_apollo_graphql_client.md)- [Refetch Query with Apollo GraphQL Client](react/refetch_query_with_apollo_graphql_client.md)
+
 ### Linux
 
 - [Delete A Rule In UFW](linux/delete_a_rule_in_ufw.md)
