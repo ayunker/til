@@ -76,6 +76,7 @@
 - [Easily Update ActiveRecord Enum Values](rails/easily_update_activerecord_enum_values.md)
 - [Ruby GraphQL Generators](rails/ruby_graphql_generators.md)
 - [Alias Method on a GraphQL Field](rails/alias_method_on_a_graphql_field.md)
+- [Generate Rails Models with Namespaces](rails/generate_rails_models_with_namespaces.md)
 
 ### Ruby
 
