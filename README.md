@@ -99,6 +99,7 @@
 - [casecmp to Compare Strings](ruby/casecmp_to_compare_strings.md)
 - [Checking Inclusion in Range](ruby/checking_inclusion_in_range.md)
 - [Case Regex Matching with Capture Groups](ruby/case_regex_matching_with_capture_groups.md)
+- [RSpec Comparison Operators](ruby/rspec_comparison_operators.md)
 
 ### tmux
 
