@@ -6,7 +6,7 @@
 
 ### Curl
 
-- [Download File From Url](curl/download_file_from_url.md)
+
 
 ### Deno
 
@@ -77,6 +77,7 @@
 - [Ruby GraphQL Generators](rails/ruby_graphql_generators.md)
 - [Alias Method on a GraphQL Field](rails/alias_method_on_a_graphql_field.md)
 - [Generate Rails Models with Namespaces](rails/generate_rails_models_with_namespaces.md)
+- [Rails Environment Task](rails/rails_environment_task.md)
 
 ### Ruby
 
