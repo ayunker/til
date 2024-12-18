@@ -102,6 +102,7 @@
 - [Case Regex Matching with Capture Groups](ruby/case_regex_matching_with_capture_groups.md)
 - [RSpec Comparison Operators](ruby/rspec_comparison_operators.md)
 - [RSpec expect not_to change from](ruby/rspect_expect_not_to_change_from.md)
+- [FactoryBot Traits within Traits](ruby/factorybot_traits_within_traits.md)
 
 ### tmux
 
