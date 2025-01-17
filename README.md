@@ -120,6 +120,7 @@
 - [View Git Commits from Blame with Fugitive](vim/view_git_commits_from_blame_with_fugitive.md)
 - [Turn Off Spell Check in Vim](vim/turn_off_spell_check_in_vim.md)
 - [View Highlight Groups in vim](vim/view_highlight_groups_in_vim.md)
+- [Vim Stores the Current Buffers Path in a Register](vim/vim_stores_the_current_buffers_path_in_a_register.md)
 
 ### Vite
 - [Stub Environment Variables in Vitest](vite/stub_environment_variables_in_vitest.md)
