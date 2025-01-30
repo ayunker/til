@@ -78,6 +78,7 @@
 - [Alias Method on a GraphQL Field](rails/alias_method_on_a_graphql_field.md)
 - [Generate Rails Models with Namespaces](rails/generate_rails_models_with_namespaces.md)
 - [Rails Environment Task](rails/rails_environment_task.md)
+- [Rails Generate Tasks](rails/rails_generate_tasks.md)
 
 ### Ruby
 
