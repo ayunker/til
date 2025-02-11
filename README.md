@@ -80,6 +80,7 @@
 - [Generate Rails Models with Namespaces](rails/generate_rails_models_with_namespaces.md)
 - [Rails Environment Task](rails/rails_environment_task.md)
 - [Rails Generate Tasks](rails/rails_generate_tasks.md)
+- [ActiveSupport Inflections - humanize vs titleize](rails/activesupport_inflections_-_humanize_vs_titleize.md)
 
 ### Ruby
 
