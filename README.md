@@ -45,7 +45,7 @@
 - [Parseable npm audit output](javascript/npm_audit_parseable.md)
 - [String Replace in Javascript](javascript/string_replace_in_javascript.md)
 
-###
+### React
 
 - [Refetch Query with Apollo GraphQL Client](react/refetch_query_with_apollo_graphql_client.md)- [Refetch Query with Apollo GraphQL Client](react/refetch_query_with_apollo_graphql_client.md)
 
@@ -128,6 +128,7 @@
 - [Vim Stores the Current Buffers Path in a Register](vim/vim_stores_the_current_buffers_path_in_a_register.md)
 
 ### Vite
+
 - [Stub Environment Variables in Vitest](vite/stub_environment_variables_in_vitest.md)
 
 ### Web
