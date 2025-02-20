@@ -4,6 +4,7 @@
 
 - [Use Comm to Compare Files](command-line/use_comm_to_compare_files.md)
 - [Deleting Words in the Terminal](command_line/deleting_words_in_the_terminal.md)- [Deleting Words in the Terminal](command-line/deleting_words_in_the_terminal.md)
+- [wc's Lesser Known -L Option](command-line/wc's_lesser_known_-l_option.md)- [wcs Lesser Known L Option](command-line/wcs_lesser_known_l_option.md)
 
 ### Curl
 
