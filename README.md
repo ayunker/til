@@ -57,6 +57,7 @@
 
 - [Install Postgres Ruby Gem on M1](mac/postgres_with_m1.md)
 - [List Installed Fonts](mac/list_installed_fonts.md)
+- [Screenshot Entire Window in macOS](mac/screenshot_entire_window_in_macos.md)
 
 ### Postgres
 
