@@ -28,6 +28,7 @@
 - [New Ways to Walk Through Past Commits in git](git/new_ways_to_walk_through_past_commits_in_git.md)
 - [Git all Commits By Author](git/git_all_commits_by_author.md)
 - [Count Commits within Time Range in Git](git/count_commits_within_time_range_in_git.md)
+- [Git Commit Reuse Message](git/git_commit_reuse_message.md)
 
 ### HAML
 
