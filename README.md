@@ -89,6 +89,7 @@
 - [Rails Generate Tasks](rails/rails_generate_tasks.md)
 - [ActiveSupport Inflections - humanize vs titleize](rails/activesupport_inflections_-_humanize_vs_titleize.md)
 - [ActiveRecord List All Enums](rails/activerecord_list_all_enums.md)
+- [Autosave belongs_to Associations](rails/autosave_belongs_to_associations.md)
 
 ### Ruby
 
