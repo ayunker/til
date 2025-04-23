@@ -7,6 +7,7 @@
 - [wc's Lesser Known -L Option](command-line/wc's_lesser_known_-l_option.md)- [wcs Lesser Known L Option](command-line/wcs_lesser_known_l_option.md)
 - [Read Manpages in vim](command-line/read_manpages_in_vim.md)
 - [Random Sort Text](command-line/random_sort_text.md)
+- [Use Jot to Print Sequences](command-line/use_jot_to_print_sequences.md)
 
 ### Curl
 
