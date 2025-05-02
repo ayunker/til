@@ -67,6 +67,7 @@
 ### Postgres
 
 - [Partial Indexes](postgres/partial_indexes.md)
+- [Randomly Sort Rows in Postgres](postgres/randomly_sort_rows_in_postgres.md)
 
 ### Rails
 
