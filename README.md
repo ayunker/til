@@ -92,6 +92,7 @@
 - [ActiveSupport Inflections - humanize vs titleize](rails/activesupport_inflections_-_humanize_vs_titleize.md)
 - [ActiveRecord List All Enums](rails/activerecord_list_all_enums.md)
 - [Autosave belongs_to Associations](rails/autosave_belongs_to_associations.md)
+- [Report Code Statistics in Rails](rails/report_code_statistics_in_rails.md)
 
 ### Ruby
 
