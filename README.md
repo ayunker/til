@@ -22,6 +22,9 @@
 - [Count Documents](elasticsearch/count_documents.md)
 - [Limit ES Memory Consumption](elasticsearch/limit_memory.md)
 
+### Firefox
+- [Firefox Builtin Search Shortcuts](firefox/firefox_builtin_search_shortcuts.md)
+
 ### Git
 
 - [Checkout from Branch](git/checkout_from_branch.md)
