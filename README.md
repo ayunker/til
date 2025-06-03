@@ -24,6 +24,7 @@
 
 ### Firefox
 - [Firefox Builtin Search Shortcuts](firefox/firefox_builtin_search_shortcuts.md)
+- [Custom Search Shortcuts](firefox/custom_search_shortcuts.md)
 
 ### Git
 
