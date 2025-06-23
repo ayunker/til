@@ -123,6 +123,7 @@
 - [RSpec expect not_to change from](ruby/rspect_expect_not_to_change_from.md)
 - [FactoryBot Traits within Traits](ruby/factorybot_traits_within_traits.md)
 - [Nested Expectations in RSpec](ruby/nested_expectations_in_rspec.md)
+- [Override Methods inside a Pry Session](ruby/override_methods_inside_a_pry_session.md)
 
 ### tmux
 
