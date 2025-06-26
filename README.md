@@ -8,6 +8,7 @@
 - [Read Manpages in vim](command-line/read_manpages_in_vim.md)
 - [Random Sort Text](command-line/random_sort_text.md)
 - [Use Jot to Print Sequences](command-line/use_jot_to_print_sequences.md)
+- [See Which Process Has a File Open with fuser](command-line/see_which_process_has_a_file_open_with_fuser.md)
 
 ### Curl
 
