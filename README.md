@@ -99,6 +99,7 @@
 - [ActiveRecord List All Enums](rails/activerecord_list_all_enums.md)
 - [Autosave belongs_to Associations](rails/autosave_belongs_to_associations.md)
 - [Report Code Statistics in Rails](rails/report_code_statistics_in_rails.md)
+- [ActiveModel Error Details as a Hash](rails/activemodel_error_details_as_a_hash.md)
 
 ### Ruby
 
