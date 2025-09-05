@@ -101,6 +101,7 @@
 - [Autosave belongs_to Associations](rails/autosave_belongs_to_associations.md)
 - [Report Code Statistics in Rails](rails/report_code_statistics_in_rails.md)
 - [ActiveModel Error Details as a Hash](rails/activemodel_error_details_as_a_hash.md)
+- [Add a Suffix to ActiveRecord Enums](rails/add_a_suffix_to_activerecord_enums.md)
 
 ### Ruby
 
