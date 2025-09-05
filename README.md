@@ -131,6 +131,7 @@
 - [Nested Expectations in RSpec](ruby/nested_expectations_in_rspec.md)
 - [Override Methods inside a Pry Session](ruby/override_methods_inside_a_pry_session.md)
 - [Edit Source Code from Within Pry](ruby/edit_source_code_from_within_pry.md)
+- [Add/Subtract Months on a Date in Ruby](ruby/add_or_subtract_months_on_a_date_in_ruby.md)
 
 ### tmux
 
