@@ -102,6 +102,7 @@
 - [Report Code Statistics in Rails](rails/report_code_statistics_in_rails.md)
 - [ActiveModel Error Details as a Hash](rails/activemodel_error_details_as_a_hash.md)
 - [Add a Suffix to ActiveRecord Enums](rails/add_a_suffix_to_activerecord_enums.md)
+- [Setup Your Rails Console with .pryrc](rails/setup_your_rails_console_with_.pryrc.md)
 
 ### Ruby
 
