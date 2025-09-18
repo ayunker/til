@@ -39,6 +39,7 @@
 - [Count Commits within Time Range in Git](git/count_commits_within_time_range_in_git.md)
 - [Git Commit Reuse Message](git/git_commit_reuse_message.md)
 - [Git Branch Completion in Bash](git/git_branch_completion_in_bash.md)
+- [Use git show-ref to Check for Branch Existence](git/use_git_show-ref_to_check_for_branch_existence.md)
 
 ### HAML
 
