@@ -106,6 +106,7 @@
 - [Add a Suffix to ActiveRecord Enums](rails/add_a_suffix_to_activerecord_enums.md)
 - [Setup Your Rails Console with .pryrc](rails/setup_your_rails_console_with_.pryrc.md)
 - [Create New Rails App with Old Rails Version](rails/create_new_rails_app_with_old_rails_version.md)
+- [Ensure Correct Redirect Action with 303 Status Code](rails/ensure_correct_redirect_action_with_303_status_code.md)
 
 ### Ruby
 
