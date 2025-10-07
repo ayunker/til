@@ -156,6 +156,7 @@
 - [Vim Stores the Current Buffers Path in a Register](vim/vim_stores_the_current_buffers_path_in_a_register.md)
 - [Reload All Buffers](vim/reload_all_buffers.md)
 - [Use norm Command for Repetitive Text Tasks](vim/use_norm_command_for_repetitive_text_tasks.md)
+- [Search within Selection in Vim](vim/search_within_selection_in_vim.md)
 
 ### Vite
 
