@@ -157,6 +157,7 @@
 - [Reload All Buffers](vim/reload_all_buffers.md)
 - [Use norm Command for Repetitive Text Tasks](vim/use_norm_command_for_repetitive_text_tasks.md)
 - [Search within Selection in Vim](vim/search_within_selection_in_vim.md)
+- [Linewise Searching in Vim](vim/linewise_searching_in_vim.md)
 
 ### Vite
 
