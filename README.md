@@ -10,7 +10,8 @@
 - [Use Jot to Print Sequences](command-line/use_jot_to_print_sequences.md)
 - [See Which Process Has a File Open with fuser](command-line/see_which_process_has_a_file_open_with_fuser.md)
 - [Use Brace Expansion to Rename Files](command-line/use_brace_expansion_to_rename_files.md)
-- [Check Which Shell Youre Using](command-line/check_which_shell_youre_using.md)
+- [Check Which Shell You're Using](command-line/check_which_shell_youre_using.md)
+- [Check Your Shell Scripts with Shellcheck](command-line/check_your_shell_scripts_with_shellcheck.md)
 
 ### Curl
 
