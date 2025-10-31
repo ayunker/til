@@ -80,6 +80,7 @@
 
 - [Partial Indexes](postgres/partial_indexes.md)
 - [Randomly Sort Rows in Postgres](postgres/randomly_sort_rows_in_postgres.md)
+- [List Databases from the Command Line](postgres/list_databases_from_the_command_line.md)
 
 ### Rails
 
