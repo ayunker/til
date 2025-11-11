@@ -112,6 +112,7 @@
 - [Create New Rails App with Old Rails Version](rails/create_new_rails_app_with_old_rails_version.md)
 - [Ensure Correct Redirect Action with 303 Status Code](rails/ensure_correct_redirect_action_with_303_status_code.md)
 - [Filter Fields and Associations When Rendering JSON](rails/filter_fields_and_associations_when_rendering_json.md)
+- [Filter RSpec Tests by Type](rails/filter_rspec_tests_by_type.md)
 
 ### Ruby
 
