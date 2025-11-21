@@ -113,6 +113,7 @@
 - [Ensure Correct Redirect Action with 303 Status Code](rails/ensure_correct_redirect_action_with_303_status_code.md)
 - [Filter Fields and Associations When Rendering JSON](rails/filter_fields_and_associations_when_rendering_json.md)
 - [Filter RSpec Tests by Type](rails/filter_rspec_tests_by_type.md)
+- [Lint Your Factories with FactoryBot.lint](rails/lint_your_factories_with_factorybot_lint.md)
 
 ### Ruby
 
