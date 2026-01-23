@@ -147,6 +147,10 @@
 - [Add/Subtract Months on a Date in Ruby](ruby/add_or_subtract_months_on_a_date_in_ruby.md)
 - [Get Arrays Min and Max with minmax](ruby/get_arrays_min_and_max_with_minmax.md)
 
+### sql
+
+- [Limit Rows Returned in Oracle SQL](sql/limit_rows_returned_in_oracle_sql.md)
+
 ### tmux
 
 - [Select Layouts](tmux/select_layouts.md)
