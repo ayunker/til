@@ -43,6 +43,7 @@
 - [Git Branch Completion in Bash](git/git_branch_completion_in_bash.md)
 - [Use git show-ref to Check for Branch Existence](git/use_git_show-ref_to_check_for_branch_existence.md)
 - [Show Commit From Other Branch](git/show_commit_from_other_branch.md)
+- [Push to Multiple Remotes Simultaneously](git/push_to_multiple_remotes_simultaneously.md)
 
 ### HAML
 
