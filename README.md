@@ -175,6 +175,7 @@
 - [Search within Selection in Vim](vim/search_within_selection_in_vim.md)
 - [Linewise Searching in Vim](vim/linewise_searching_in_vim.md)
 - [Delete Lines with Patterns and Ex Commands](vim/delete_lines_with_patterns_and_ex_commands.md)
+- [Use the Global Command in Vim](vim/use_the_global_command_in_vim.md)
 
 ### Vite
 
