@@ -44,6 +44,7 @@
 - [Use git show-ref to Check for Branch Existence](git/use_git_show-ref_to_check_for_branch_existence.md)
 - [Show Commit From Other Branch](git/show_commit_from_other_branch.md)
 - [Push to Multiple Remotes Simultaneously](git/push_to_multiple_remotes_simultaneously.md)
+- [Ignore Specific Commits in Git Blame](git/ignore_specific_commits_in_git_blame.md)
 
 ### HAML
 
