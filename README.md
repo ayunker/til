@@ -119,6 +119,7 @@
 - [Filter RSpec Tests by Type](rails/filter_rspec_tests_by_type.md)
 - [Lint Your Factories with FactoryBot.lint](rails/lint_your_factories_with_factorybot_lint.md)
 - [Get Whodunnit Instance from PaperTrailGlobalId](rails/get_whodunnit_instance_from_papertrailglobalid.md)
+- [Use .first! and .last! ActiveRecord Finder Methods](rails/use_.first!_and_.last!_activerecord_finder_methods.md)
 
 ### Ruby
 
