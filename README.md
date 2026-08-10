@@ -120,6 +120,7 @@
 - [Lint Your Factories with FactoryBot.lint](rails/lint_your_factories_with_factorybot_lint.md)
 - [Get Whodunnit Instance from PaperTrailGlobalId](rails/get_whodunnit_instance_from_papertrailglobalid.md)
 - [Use .first! and .last! ActiveRecord Finder Methods](rails/use_.first!_and_.last!_activerecord_finder_methods.md)
+- [Use .many? to Determine if Collection has > 1 recs](rails/use_.many?_to_determine_if_collection_has_>_1_recs.md)
 
 ### Ruby
 
