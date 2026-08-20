@@ -45,6 +45,7 @@
 - [Show Commit From Other Branch](git/show_commit_from_other_branch.md)
 - [Push to Multiple Remotes Simultaneously](git/push_to_multiple_remotes_simultaneously.md)
 - [Ignore Specific Commits in Git Blame](git/ignore_specific_commits_in_git_blame.md)
+- [Use git ls-remote to Browse a Remote Repo](git/use_git_ls-remote_to_browse_a_remote_repo.md)
 
 ### HAML
 
