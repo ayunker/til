@@ -81,6 +81,10 @@
 - [List Installed Fonts](mac/list_installed_fonts.md)
 - [Screenshot Entire Window in macOS](mac/screenshot_entire_window_in_macos.md)
 
+### Mysql
+
+- [mysql Config File](mysql/mysql_config_file.md)
+
 ### Postgres
 
 - [Partial Indexes](postgres/partial_indexes.md)
